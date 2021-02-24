@@ -49,3 +49,9 @@ This technologies are going to be used in our website:
 13. How does the book rating work? 
 14. How does a "favorites"? 
 15. What features does a regular user have?
+
+### Dataset
+https://www.kaggle.com/bahramjannesarr/goodreads-book-datasets-10m
+
+
+
